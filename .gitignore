@@ -4,5 +4,7 @@ airflow.cfg
 airflow.db
 unittests.cfg
 
+aws.cfg
+
 __pycache__/
 */__pycache__/
